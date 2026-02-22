@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="0" skipped="2">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-21T13:44:42 IST" name="Master Suite" finished-at="2026-02-21T13:44:43 IST" duration-ms="1180">
+    <groups>
+      <group name="Master">
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@33308786]" name="verify_login" class="testCases.LoginTest"/>
+        <method signature="TC001_AccountRegistrationTest.verify_account_Registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@30af5b6b]" name="verify_account_Registration" class="testCases.TC001_AccountRegistrationTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@33308786]" name="verify_login" class="testCases.LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC001_AccountRegistrationTest.verify_account_Registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@30af5b6b]" name="verify_account_Registration" class="testCases.TC001_AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2026-02-21T13:44:42 IST" name="Test" finished-at="2026-02-21T13:44:43 IST" duration-ms="1180">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@33308786]" started-at="2026-02-21T13:44:43 IST" name="setup" finished-at="2026-02-21T13:44:43 IST" duration-ms="284" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:195)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:286)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:209)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:169)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:165)
+at testBase.BaseClass.setup(BaseClass.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:744)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.LoginTest@33308786]" started-at="2026-02-21T13:44:43 IST" name="verify_login" finished-at="2026-02-21T13:44:43 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:195)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:286)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:209)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:169)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:165)
+at testBase.BaseClass.setup(BaseClass.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:744)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@33308786]" started-at="2026-02-21T13:44:43 IST" name="tearDown" finished-at="2026-02-21T13:44:43 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@30af5b6b]" started-at="2026-02-21T13:44:42 IST" name="setup" finished-at="2026-02-21T13:44:43 IST" duration-ms="774" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:195)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:286)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:209)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:169)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:165)
+at testBase.BaseClass.setup(BaseClass.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:744)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_Registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@30af5b6b]" started-at="2026-02-21T13:44:43 IST" name="verify_account_Registration" finished-at="2026-02-21T13:44:43 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Could not start a new session. Could not start a new session. Error while creating session with the driver service. Stopping driver service: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'e7abc625fe74', ip: '172.19.0.3'
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '11.0.20.1'
+Driver info: driver.version: unknown
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.8.0-65-generic', java.version: '21.0.9'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: linux}]}]
+Capabilities {browserName: chrome, platformName: linux}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:195)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:286)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:209)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:169)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:165)
+at testBase.BaseClass.setup(BaseClass.java:77)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:744)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@30af5b6b]" started-at="2026-02-21T13:44:43 IST" name="tearDown" finished-at="2026-02-21T13:44:43 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>

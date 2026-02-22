@@ -1,0 +1,528 @@
+2026-02-14 12:21:30,655 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:21:30,781 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:21:32,089 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:21:43,502 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:27:21,572 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:27:21,679 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:27:22,905 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:28:46,120 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:28:46,229 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:28:47,531 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:28:58,826 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:29:54,182 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:29:54,292 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:29:55,575 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:30:07,151 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:31:03,220 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:31:03,325 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:31:04,836 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:31:54,982 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:31:55,089 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:32:06,400 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:33:05,346 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:33:05,454 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:33:16,821 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:33:38,086 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:35:15,724 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:35:15,834 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:35:27,102 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:35:48,280 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:37:59,769 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:37:59,876 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:38:12,071 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:38:12,174 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-14 12:38:12,871 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-14 12:38:12,872 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-14 12:38:13,471 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-14 12:38:14,481 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-14 12:38:26,287 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:57:35,028 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:57:35,148 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:57:38,024 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:57:38,133 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-14 12:57:38,906 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-14 12:57:38,908 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-14 12:57:40,873 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-14 12:57:40,905 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-14 12:57:43,128 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:59:23,794 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/test-output/testng-failed.xml"
+2026-02-14 12:59:23,907 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/test-output/testng-failed.xml
+
+2026-02-14 12:59:26,617 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:59:28,515 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-14 13:00:47,099 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 13:00:47,230 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 13:00:49,611 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 13:00:49,730 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-14 13:00:50,282 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-14 13:00:50,284 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-14 13:00:52,140 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-14 13:00:52,177 {HH:mm:ss.SSS}[main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+2026-02-14 13:00:52,178 {HH:mm:ss.SSS}[main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs..
+2026-02-14 13:00:54,688 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 13:00:56,456 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-14 13:01:35,205 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 13:01:35,321 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 13:01:38,208 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 13:01:38,293 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-14 13:01:38,912 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-14 13:01:38,913 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-14 13:01:40,772 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-14 13:01:40,805 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-14 13:01:42,867 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 13:01:45,068 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-19 14:12:20,843 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-19 14:12:20,981 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-19 14:12:25,311 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:12:25,431 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:12:25,868 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:12:25,871 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:12:28,075 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:12:28,123 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:12:30,899 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-19 14:12:32,760 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-19 14:14:28,876 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-19 14:14:29,020 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-19 14:14:31,103 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:14:31,252 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:14:31,821 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:14:31,822 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:14:33,700 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:14:33,751 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:14:41,555 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-19 14:14:43,578 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-19 14:26:56,169 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:26:56,298 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:26:56,362 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:26:58,375 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:26:58,555 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:26:59,201 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:26:59,205 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:27:01,082 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:27:01,121 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:31:28,657 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:31:28,779 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:31:28,827 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:31:30,643 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:31:30,801 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:31:31,489 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:31:31,491 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:31:33,452 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:31:33,499 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:36:17,450 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:36:17,574 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:36:17,626 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:36:19,571 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:36:19,670 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:36:20,484 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:36:20,485 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:36:21,239 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:36:22,377 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:42:04,750 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:42:04,872 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:42:04,917 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:42:04,917 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:42:06,915 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:42:07,062 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:42:07,682 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:42:07,685 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:42:09,578 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:42:09,623 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 14:44:43,658 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:44:43,782 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:44:43,822 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:44:45,785 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:44:45,867 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:44:46,335 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:44:46,336 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:44:57,125 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:45:08,236 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:45:08,353 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:45:08,398 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:45:10,583 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:45:10,696 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:45:11,132 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:45:11,133 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:45:11,133 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:45:11,215 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:45:11,633 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:45:11,634 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:48:04,577 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:48:04,690 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:48:04,736 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:48:06,839 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:48:06,848 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:48:06,922 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:48:06,954 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:51:13,669 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:51:13,780 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:51:13,828 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:51:15,823 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:51:15,839 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:51:15,905 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:51:15,958 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:55:06,653 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 14:55:06,761 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 14:55:09,213 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:55:09,213 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:55:09,317 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:55:09,354 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:55:11,064 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 14:55:11,179 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 14:55:11,642 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 14:55:11,643 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 14:55:12,976 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 14:55:12,997 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 15:01:54,406 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 15:01:54,530 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 15:01:57,413 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:01:58,769 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:01:58,781 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:01:58,865 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:01:58,933 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:01:59,027 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:01:59,467 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:01:59,468 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:04:10,360 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-19 15:04:10,484 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-19 15:04:15,075 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:04:15,234 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:04:16,089 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:04:16,091 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:04:17,819 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 15:04:17,852 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 15:04:19,417 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-19 15:04:20,987 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-19 15:05:42,671 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 15:05:42,795 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 15:05:44,686 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:05:44,777 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:05:45,139 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:05:45,143 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:05:45,145 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:05:56,787 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:05:56,882 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:46:09,184 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 15:46:09,302 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 15:46:13,295 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:46:13,404 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:46:13,961 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:46:13,962 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:46:15,479 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 15:46:15,480 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:46:15,505 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 15:46:15,579 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:50:57,001 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 15:50:57,132 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 15:50:59,485 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:51:01,012 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:51:01,032 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:51:01,112 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:51:01,194 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:51:01,268 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:51:01,838 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:51:01,839 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:57:06,616 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 15:57:06,642 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-02-19 15:57:06,727 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 15:57:08,511 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:57:08,642 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:57:09,072 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:57:09,073 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:57:09,788 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 15:57:10,607 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 15:57:13,986 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:57:14,125 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:57:14,531 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:57:14,531 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:57:15,860 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 15:57:15,875 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 15:58:19,374 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 15:58:19,466 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 15:58:19,980 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 15:58:19,981 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 15:58:21,680 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 15:58:21,730 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 16:00:10,374 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:00:10,520 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:00:13,424 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:00:14,906 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:00:14,928 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:00:15,027 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:00:15,101 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:00:15,175 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:00:15,807 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:00:15,807 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:04:25,015 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:04:25,150 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:04:28,033 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:04:28,033 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:04:28,172 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:04:28,234 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:04:30,227 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:04:30,335 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:04:30,825 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:04:30,826 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:04:32,102 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 16:04:32,131 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 16:06:29,424 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:06:29,539 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:06:31,666 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:06:31,666 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:06:31,760 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:06:31,872 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:06:33,298 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:06:33,413 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:06:34,019 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:06:34,019 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:06:35,548 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 16:06:35,575 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 16:08:35,577 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:08:35,700 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:08:37,806 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:08:37,935 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:08:37,937 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:08:38,392 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:08:38,393 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:21:08,304 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:21:08,413 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:21:10,666 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:21:10,667 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:21:10,884 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:21:10,934 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:21:12,204 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:21:12,401 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:21:13,014 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:21:13,016 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:21:14,387 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 16:21:14,411 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 16:24:14,946 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:24:15,069 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:24:17,290 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:24:17,290 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:24:17,442 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:24:17,497 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:24:19,173 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:24:19,400 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:24:19,923 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:24:19,923 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:24:21,038 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 16:24:21,067 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 16:38:39,368 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 16:38:39,488 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 16:38:41,520 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:38:41,543 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:38:41,613 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:38:41,658 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:38:43,203 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 16:38:43,333 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 16:38:43,831 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 16:38:43,832 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 16:38:45,053 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 16:38:45,064 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 17:55:56,537 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 17:55:56,656 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 17:56:00,479 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:56:00,479 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:56:00,480 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:56:00,626 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:56:00,693 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:56:00,759 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:56:01,403 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 17:56:01,404 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 17:59:42,847 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 17:59:42,965 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 17:59:46,833 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:59:46,834 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:59:46,835 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 17:59:46,979 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:59:47,038 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:59:47,105 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 17:59:47,760 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 17:59:47,765 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 17:59:48,907 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 18:00:18,961 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 18:01:35,696 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 18:01:35,809 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 18:01:37,714 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:01:37,832 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:01:38,315 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:01:38,316 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:01:49,462 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:02:08,668 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:02:08,777 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:02:09,182 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:02:09,182 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:05:16,725 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 18:05:16,850 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 18:05:19,713 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:05:20,701 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:05:20,726 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:05:20,846 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:05:20,917 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:05:20,989 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:05:21,446 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:05:21,448 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:05:22,756 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 18:05:52,803 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 18:07:22,156 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-19 18:07:22,278 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml
+
+2026-02-19 18:07:24,381 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:07:24,521 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:07:25,024 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:07:25,027 {HH:mm:ss.SSS}[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:07:35,873 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:07:36,068 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:07:56,859 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:07:56,859 {HH:mm:ss.SSS}[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:08:25,289 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:08:25,430 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:08:26,046 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:08:26,047 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:08:27,458 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 18:08:27,487 {HH:mm:ss.SSS}[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 18:09:12,420 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-19 18:09:12,541 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-19 18:09:16,305 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-19 18:09:16,419 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-19 18:09:17,679 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-19 18:09:17,681 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-19 18:09:19,707 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-19 18:09:19,747 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-19 18:09:25,137 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-19 18:09:27,502 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-21 11:45:08,884 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 11:45:09,014 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 11:45:35,811 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 11:45:35,941 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 11:45:40,685 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-21 11:45:40,845 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-21 11:45:41,555 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-21 11:45:41,557 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-21 11:45:44,385 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-21 11:45:44,429 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-21 11:45:46,321 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-21 11:45:48,383 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-21 11:46:50,823 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 11:46:50,960 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 11:46:53,560 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-21 11:46:53,734 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-21 11:46:54,557 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-21 11:46:54,558 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-21 11:46:57,160 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-21 11:46:57,218 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-21 11:46:59,458 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-21 11:47:01,717 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-21 11:48:01,711 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/crossbrowsertesting.xml"
+2026-02-21 12:04:56,355 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 12:04:56,464 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 12:05:19,192 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 12:05:19,305 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 13:04:58,211 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 13:04:58,332 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 13:05:21,341 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 13:05:21,459 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 13:05:54,286 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-21 13:05:54,393 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-21 13:07:50,658 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"

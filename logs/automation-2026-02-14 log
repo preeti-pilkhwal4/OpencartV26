@@ -1,0 +1,447 @@
+2026-02-12 20:15:56,025 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:15:56,026 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:15:56,027 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:15:56,039 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:15:58,366 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:15:58,369 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:16:09,936 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:16:09,939 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:16:21,642 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:16:21,646 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:16:33,016 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:16:33,019 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:16:34,949 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:17:48,754 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-12 20:17:48,857 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-12 20:17:51,726 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,728 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,728 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,918 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,918 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,919 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,930 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,931 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,931 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,943 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,943 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,944 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,957 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,958 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,958 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,966 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,967 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,967 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,984 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,985 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,985 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:51,994 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:51,994 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:51,995 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,004 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,004 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,004 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,011 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,012 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,012 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,019 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,019 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,019 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,027 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,028 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,029 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,053 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,053 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,053 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,061 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,061 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,062 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,079 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,082 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,084 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,091 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,092 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,092 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,101 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,101 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,102 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,110 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,111 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,111 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,119 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,119 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,120 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,126 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-12 20:17:52,126 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-12 20:17:52,126 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-12 20:17:52,139 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:17:54,200 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:17:54,205 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:18:04,873 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:18:04,878 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:18:15,448 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:18:15,451 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:18:26,695 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:18:26,698 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:18:28,847 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:18:28,848 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-12 20:18:39,509 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-12 20:50:18,775 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml"
+2026-02-12 20:50:18,879 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml
+
+2026-02-12 20:50:21,070 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-12 20:50:21,151 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-12 20:50:21,589 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-12 20:50:21,590 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-12 20:50:23,554 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-12 20:50:23,592 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-12 20:50:25,635 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-12 20:50:27,424 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-12 20:51:36,223 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml"
+2026-02-12 20:51:36,346 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml
+
+2026-02-12 20:51:38,466 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-12 20:51:40,864 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-12 20:52:09,036 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml"
+2026-02-12 20:52:09,161 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml
+
+2026-02-12 20:52:11,136 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-12 20:52:11,235 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-12 20:52:11,796 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-12 20:52:11,797 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-12 20:52:13,844 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-12 20:52:13,864 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 00:06:58,993 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml"
+2026-02-13 00:06:59,116 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml
+
+2026-02-13 00:07:27,709 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml"
+2026-02-13 00:07:27,823 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/grouping.xml
+
+2026-02-13 00:07:37,340 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 00:07:37,418 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 00:07:38,930 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 00:07:38,931 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 00:07:40,644 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 00:07:40,670 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 00:08:47,622 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 00:08:47,730 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 00:08:50,027 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,028 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,029 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,217 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,218 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,218 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,236 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,236 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,237 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,249 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,249 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,250 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,262 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,262 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,263 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,270 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,271 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,271 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,279 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,279 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,279 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,286 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,287 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,287 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,296 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,296 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,297 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,309 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,309 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,309 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,317 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,317 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,317 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,326 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,326 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,327 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,334 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,334 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,334 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,340 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,341 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,341 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,348 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,348 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,349 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,355 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,356 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,356 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,364 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,365 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,365 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,372 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,373 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,374 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,381 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,381 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,382 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,388 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 00:08:50,388 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 00:08:50,388 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 00:08:50,399 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:08:52,379 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 00:08:52,397 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:09:03,762 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 00:09:03,766 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:09:14,587 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 00:09:14,592 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:09:25,159 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 00:09:25,162 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:09:27,166 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 00:09:27,169 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 00:09:37,767 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:33:59,600 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:33:59,710 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:34:09,000 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:34:09,111 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:34:43,602 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,604 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,604 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,781 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,781 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,782 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,796 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,797 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,797 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,808 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,808 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,809 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,820 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,821 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,821 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,828 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,829 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,829 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,837 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,837 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,838 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,845 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,845 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,846 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,854 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,855 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,855 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,862 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,862 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,862 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,868 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,868 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,868 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,876 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,876 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,877 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,883 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,883 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,884 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,889 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,889 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,890 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,896 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,896 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,897 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,904 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,905 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,905 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,912 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,912 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,912 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,918 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,918 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,918 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,924 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,924 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,925 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,930 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:34:43,931 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:34:43,931 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:34:43,943 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:34:45,917 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:34:45,929 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:34:57,396 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:34:57,398 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:35:08,697 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:35:08,701 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:35:20,161 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:35:20,165 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:35:22,408 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:35:22,411 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:35:33,829 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:36:29,234 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:36:29,331 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:36:31,513 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,514 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,515 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,701 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,701 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,702 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,719 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,719 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,720 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,732 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,732 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,733 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,745 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,746 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,746 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,754 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,754 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,755 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,762 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,763 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,763 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,771 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,771 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,771 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,778 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,779 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,779 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,787 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,788 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,788 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,795 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,795 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,796 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,803 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,804 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,804 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,811 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,812 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,812 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,818 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,818 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,818 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,825 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,825 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,826 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,832 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,832 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,832 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,839 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,839 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,839 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,845 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,846 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,846 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,852 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,852 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,853 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,858 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-13 17:36:31,858 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-13 17:36:31,859 {HH:mm:ss.SSS}[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-02-13 17:36:31,869 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:36:33,923 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:36:33,930 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:36:45,318 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:36:45,321 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:36:55,971 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:36:55,974 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:37:07,303 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:37:07,306 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:37:09,306 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:37:09,308 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****TC003_LoginDDT started****
+2026-02-13 17:37:19,913 {HH:mm:ss.SSS}[main] INFO  testCases.TC003_LoginDDT - ****Finished TC003_LoginDDT****
+2026-02-13 17:39:02,729 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:39:02,827 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:39:06,109 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 17:39:06,220 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 17:39:06,935 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 17:39:06,938 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 17:39:08,699 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 17:39:08,736 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 17:39:36,619 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:39:36,731 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:39:38,875 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 17:39:38,944 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 17:39:39,425 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 17:39:39,426 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 17:39:41,112 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 17:39:41,161 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 17:39:42,796 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-13 17:39:44,452 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-13 17:41:06,891 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:41:06,999 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:41:08,989 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 17:41:09,093 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 17:41:09,643 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 17:41:09,644 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 17:41:11,333 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 17:41:11,377 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 17:41:13,097 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-13 17:44:27,877 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:44:27,986 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:44:29,999 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 17:44:30,100 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 17:44:30,599 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 17:44:30,600 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 17:44:32,429 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 17:44:32,460 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 17:44:34,299 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-13 17:44:35,715 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - Finished Login Test
+2026-02-13 17:45:10,929 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 17:45:11,038 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 17:45:13,392 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 17:45:13,509 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 17:45:14,189 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 17:45:14,192 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 17:45:15,825 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 17:45:15,870 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 17:45:17,831 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-13 19:52:35,646 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 19:52:35,772 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 19:52:38,999 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 19:52:39,068 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 19:52:39,518 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 19:52:39,518 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 19:52:41,082 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 19:52:41,108 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 19:52:42,737 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-13 20:02:17,229 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-13 20:02:17,347 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-13 20:02:19,399 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-13 20:02:19,508 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2026-02-13 20:02:20,006 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2026-02-13 20:02:20,007 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customaer details..
+2026-02-13 20:02:22,934 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2026-02-13 20:02:22,959 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+2026-02-13 20:02:25,002 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****
+2026-02-14 12:20:49,935 {HH:mm:ss.SSS}[main] DEBUG org.testng.TestNG - suiteXmlPath: "/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml"
+2026-02-14 12:20:50,048 {HH:mm:ss.SSS}[main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /home/preetipilkhwal/Workspaces/workspace2/OpencartV26/testng.xml
+
+2026-02-14 12:20:53,429 {HH:mm:ss.SSS}[main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2026-02-14 12:21:04,787 {HH:mm:ss.SSS}[main] INFO  testCases.LoginTest - ****Starting logintest****

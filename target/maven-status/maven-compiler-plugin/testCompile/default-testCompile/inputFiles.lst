@@ -1,0 +1,12 @@
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/pageObjects/AccountRegistrationPage.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/pageObjects/BasePage.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/pageObjects/HomePage.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/pageObjects/LoginPage.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/pageObjects/MyAccountPAge.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/testBase/BaseClass.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/testCases/LoginTest.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/testCases/TC001_AccountRegistrationTest.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/testCases/TC003_LoginDDT.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/utilities/DataProviders.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/utilities/ExcelUtility.java
+/home/preetipilkhwal/Workspaces/workspace2/OpencartV26/src/test/java/utilities/ExtentReportManager.java
