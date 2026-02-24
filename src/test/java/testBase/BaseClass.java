@@ -17,8 +17,11 @@ import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
@@ -82,9 +85,30 @@ public Properties p;
 		{
 			switch(br.toLowerCase()) 
 			{
-			case "chrome": driver= new ChromeDriver(); break;
-			case "edge": driver= new EdgeDriver(); break;
-			case "firefox": driver= new FirefoxDriver(); break;
+			case "chrome": //driver= new ChromeDriver(); break;
+				 	{
+				 		ChromeOptions options = new ChromeOptions();
+				 	    options.addArguments("--headless=new");        // Run without GUI
+			            options.addArguments("--no-sandbox");          // Required on Linux
+			            options.addArguments("--disable-dev-shm-usage");// Avoid memory issues
+			            driver = new ChromeDriver(options);
+			            break;
+				 	}
+			case "edge": //driver= new EdgeDriver(); break;
+				//for headless mode in jenkins
+					{
+						EdgeOptions options = new EdgeOptions();
+						options.addArguments("--headless=new");        // Headless Edge
+						driver = new EdgeDriver(options);
+						break;
+					 }
+			case "firefox"://driver= new FirefoxDriver(); break;
+				{
+					FirefoxOptions options = new FirefoxOptions();
+		            options.addArguments("--headless");            // Headless Firefox
+		            driver = new FirefoxDriver(options);
+		            break;
+				}
 			default: System.out.println("Invalid browser name..."); return;
 			}
 		}
